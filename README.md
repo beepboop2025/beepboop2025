@@ -29,8 +29,8 @@
 
 <!-- ░░░ LIVE TERMINAL ░░░ -->
 <p align="center">
-  <a href="https://beepboop2025.github.io/beepboop2025/">
-    <img src="https://img.shields.io/badge/%E2%96%B8%20LAUNCH%20INTEL%20TERMINAL-beepboop2025.github.io%2Fbeepboop2025-3fe07a?style=for-the-badge&labelColor=070a0f&logo=githubpages&logoColor=3fe07a" alt="Launch the live INTEL TERMINAL" />
+  <a href="https://beepboop2025.github.io/">
+    <img src="https://img.shields.io/badge/%E2%96%B8%20LAUNCH%20INTEL%20TERMINAL-beepboop2025.github.io-3fe07a?style=for-the-badge&labelColor=070a0f&logo=githubpages&logoColor=3fe07a" alt="Launch the live INTEL TERMINAL" />
   </a>
 </p>
 
