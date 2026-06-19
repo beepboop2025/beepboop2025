@@ -27,6 +27,13 @@
   <img src="https://img.shields.io/badge/DOCTRINE-estimate%20the%20hidden%20state-b48cff?style=flat-square&labelColor=0d1219" />
 </p>
 
+<!-- ░░░ LIVE TERMINAL ░░░ -->
+<p align="center">
+  <a href="https://beepboop2025.github.io/">
+    <img src="https://img.shields.io/badge/%E2%96%B8%20LAUNCH%20INTEL%20TERMINAL-beepboop2025.github.io-3fe07a?style=for-the-badge&labelColor=070a0f&logo=githubpages&logoColor=3fe07a" alt="Launch the live INTEL TERMINAL" />
+  </a>
+</p>
+
 ---
 
 ```yaml
@@ -82,7 +89,7 @@ doctrine:    no single source is trusted — value comes from triangulation
 
 | repo | what it is | stack |
 |------|-----------|-------|
-| **[pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp)** | MCP server for PDFs — **29 tools**: read, merge, split, watermark, redact, fill forms. | `MCP` `Python` |
+| **[pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp)** | MCP server for PDFs — **37 tools**: read, merge, split, watermark, redact, fill forms. | `MCP` `Python` |
 | **[formcraft](https://github.com/beepboop2025/formcraft)** | Drag-and-drop form builder — conditional logic, Stripe, analytics. | `Next.js` `Prisma` |
 | **[snapmock](https://github.com/beepboop2025/snapmock)** | Screenshots → beautiful mockups. Free, private, no sign-up. | `Next.js` |
 | **[ai-analytics](https://github.com/beepboop2025/ai-analytics)** | AI data-analytics SaaS — Next.js 16, Claude, Stripe, Prisma 7. | `Next.js` `Claude` |
