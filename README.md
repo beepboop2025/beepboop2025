@@ -33,7 +33,7 @@ I build **full systems, not demos** — from the collectors and message queues a
 |---|---|---|
 | ★ | **[social-scraper](https://github.com/beepboop2025/social-scraper)** | OSINT + financial-NLP platform — 26 collectors → Kafka/TimescaleDB → FastAPI, featuring **PALIMPSEST**, a China latent-state intelligence engine |
 | ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs — Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
-| ◆ | **[vitalchain](https://github.com/beepboop2025/vitalchain)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
+| ◆ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
 | ◆ | **[DragonScope](https://github.com/beepboop2025/DragonScope)** · [live ↗](https://dragonscope.vercel.app) | Bloomberg-style terminal — 45+ panels, ML signals, in-browser SQL, real-time WebSocket feeds, correlation engine |
 | ◆ | **[groundcheck](https://github.com/beepboop2025/groundcheck)** · [live ↗](https://groundcheck-three.vercel.app) | The grounding check agents run before they answer — an MCP server that verifies a claim against live sources and returns a verdict + citations |
 | ◆ | **[pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp)** | MCP server with 37 tools for reading, creating, merging, watermarking, redacting &amp; filling PDFs |
@@ -46,7 +46,7 @@ I build **full systems, not demos** — from the collectors and message queues a
 
 **🤖 AI tooling &amp; MCP** — [groundcheck](https://github.com/beepboop2025/groundcheck) · [pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp) · [ai-analytics](https://github.com/beepboop2025/ai-analytics) · [medprep-ai](https://github.com/beepboop2025/medprep-ai)
 
-**📈 Fintech &amp; data** — [operatoros](https://github.com/beepboop2025/operatoros) · [DragonScope](https://github.com/beepboop2025/DragonScope) · [LiquiFi](https://github.com/beepboop2025/LiquiFi) · [vitalchain](https://github.com/beepboop2025/vitalchain) · [ReadyState](https://github.com/beepboop2025/ReadyState) · [chainguard](https://github.com/beepboop2025/chainguard) · [umbra-xmr-bridge](https://github.com/beepboop2025/umbra-xmr-bridge)
+**📈 Fintech &amp; data** — [operatoros](https://github.com/beepboop2025/operatoros) · [DragonScope](https://github.com/beepboop2025/DragonScope) · [LiquiFi](https://github.com/beepboop2025/LiquiFi) · [provenra](https://github.com/beepboop2025/provenra) · [ReadyState](https://github.com/beepboop2025/ReadyState) · [chainguard](https://github.com/beepboop2025/chainguard) · [umbra-xmr-bridge](https://github.com/beepboop2025/umbra-xmr-bridge)
 
 ## ▸ Signals
 
