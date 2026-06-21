@@ -31,6 +31,10 @@ I build **full systems, not demos** — from the collectors and message queues a
 
 | | project | what it is |
 |---|---|---|
+| ★ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
+| ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs — Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
+| ◆ | **[drug-price-observatory](https://github.com/beepboop2025/drug-price-observatory)** | Public-good explorer making UNODC/INCB drug-trade data legible — street prices, precursor flows, corridors |
+
 | ★ | **[social-scraper](https://github.com/beepboop2025/social-scraper)** | OSINT + financial-NLP platform — 26 collectors → Kafka/TimescaleDB → FastAPI, featuring **PALIMPSEST**, a China latent-state intelligence engine |
 | ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs — Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
 | ◆ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
