@@ -46,7 +46,7 @@ I build **full systems, not demos** — from the collectors and message queues a
 
 **🤖 AI tooling &amp; MCP** — [groundcheck](https://github.com/beepboop2025/groundcheck) · [pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp) · [ai-analytics](https://github.com/beepboop2025/ai-analytics) · [medprep-ai](https://github.com/beepboop2025/medprep-ai)
 
-**📈 Fintech &amp; data** — [operatoros](https://github.com/beepboop2025/operatoros) · [DragonScope](https://github.com/beepboop2025/DragonScope) · [LiquiFi](https://github.com/beepboop2025/LiquiFi) · [provenra](https://github.com/beepboop2025/provenra) · [ReadyState](https://github.com/beepboop2025/ReadyState) · [chainguard](https://github.com/beepboop2025/chainguard) · [umbra-xmr-bridge](https://github.com/beepboop2025/umbra-xmr-bridge)
+**📈 Fintech &amp; data** — [operatoros](https://github.com/beepboop2025/operatoros) · [DragonScope](https://github.com/beepboop2025/DragonScope) · [LiquiLens](https://liquilens.in) · [provenra](https://github.com/beepboop2025/provenra) · [ReadyState](https://github.com/beepboop2025/ReadyState) · [chainguard](https://github.com/beepboop2025/chainguard) · [umbra-xmr-bridge](https://github.com/beepboop2025/umbra-xmr-bridge)
 
 ## ▸ Signals
 
