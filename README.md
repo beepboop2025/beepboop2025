@@ -35,8 +35,8 @@ I build **full systems, not demos** — from the collectors and message queues a
 | ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs — Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
 | ★ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
 | ◆ | **[DragonScope](https://github.com/beepboop2025/DragonScope)** · [live ↗](https://dragonscope.vercel.app) | Bloomberg-style terminal — 45+ panels, ML signals, in-browser SQL, real-time WebSocket feeds, correlation engine |
-| ◆ | **[groundcheck](https://github.com/beepboop2025/groundcheck)** · [live ↗](https://groundcheck-three.vercel.app) | The grounding check agents run before they answer — an MCP server that verifies a claim against live sources and returns a verdict + citations |
-| ◆ | **[pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp)** | MCP server with 37 tools for reading, creating, merging, watermarking, redacting &amp; filling PDFs |
+| ◆ | **[groundcheck](https://github.com/beepboop2025/groundcheck)** · [live ↗](https://groundcheck.seiche.info) | The grounding check agents run before they answer — an MCP server that verifies a claim against live sources and returns a verdict + citations |
+| ◆ | **[pdf-suite-mcp](https://github.com/beepboop2025/pdf-suite-mcp)** | MCP server with 37 tools for reading, creating, merging, watermarking, redacting &amp; filling PDFs |
 | ◆ | **[snapmock](https://github.com/beepboop2025/snapmock)** · [live ↗](https://snapmock-orpin.vercel.app) | Turn screenshots into beautiful mockups in seconds — free, private, no sign-up |
 | ◆ | **[drug-price-observatory](https://github.com/beepboop2025/drug-price-observatory)** | Public-good explorer making UNODC/INCB drug-trade data legible — street prices, precursor flows, corridors |
 
@@ -44,7 +44,7 @@ I build **full systems, not demos** — from the collectors and message queues a
 
 **🛰 Intelligence &amp; OSINT** — [palimpsest](https://github.com/beepboop2025/palimpsest) · [economic-intelligence-agent](https://github.com/beepboop2025/economic-intelligence-agent) · [econscraper](https://github.com/beepboop2025/econscraper) · [drug-price-observatory](https://github.com/beepboop2025/drug-price-observatory)
 
-**🤖 AI tooling &amp; MCP** — [groundcheck](https://github.com/beepboop2025/groundcheck) · [pdf-toolkit-mcp](https://github.com/beepboop2025/pdf-toolkit-mcp) · [ai-analytics](https://github.com/beepboop2025/ai-analytics) · [medprep-ai](https://github.com/beepboop2025/medprep-ai)
+**🤖 AI tooling &amp; MCP** — [groundcheck](https://github.com/beepboop2025/groundcheck) · [pdf-suite-mcp](https://github.com/beepboop2025/pdf-suite-mcp) · [ai-analytics](https://github.com/beepboop2025/ai-analytics) · [medprep-ai](https://github.com/beepboop2025/medprep-ai)
 
 **📈 Fintech &amp; data** — [operatoros](https://github.com/beepboop2025/operatoros) · [DragonScope](https://github.com/beepboop2025/DragonScope) · [LiquiLens](https://liquilens.in) · [provenra](https://github.com/beepboop2025/provenra) · [ReadyState](https://github.com/beepboop2025/ReadyState) · [chainguard](https://github.com/beepboop2025/chainguard) · [umbra-xmr-bridge](https://github.com/beepboop2025/umbra-xmr-bridge)
 
