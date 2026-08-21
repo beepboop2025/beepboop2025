@@ -31,6 +31,7 @@ I build **full systems, not demos** — from the collectors and message queues a
 
 | | project | what it is |
 |---|---|---|
+| ★ | **[LiquiLens](https://liquilens.in)** · [MCP ↗](https://github.com/beepboop2025/liquilens-mcp) | Public-data early-warning research for banks and lenders — evidence-bounded Failure Radar, historical replays, a keyless API &amp; an 18-tool read-only MCP server |
 | ★ | **[palimpsest](https://github.com/beepboop2025/palimpsest)** | OSINT + financial-NLP platform — 26 collectors → Kafka/TimescaleDB → FastAPI, featuring **PALIMPSEST**, a China latent-state intelligence engine |
 | ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs — Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
 | ★ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
