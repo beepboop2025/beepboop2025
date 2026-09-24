@@ -27,12 +27,18 @@
 
 I build **full systems, not demos** — from the collectors and message queues at the bottom to the dashboards and agents at the top. My work clusters around three obsessions: making opaque real-world data **legible**, giving AI agents **tools they can trust**, and **financial infrastructure** that holds up. Python &amp; TypeScript · FastAPI &amp; Next.js · Kafka &amp; Postgres.
 
+## ▸ Free financial research for your agent
+
+**[Get the free agent kit →](https://liquilens.in/agents/)** — keyless MCP connections for Hermes, OpenClaw, Claude, Codex, Cursor and VS Code, with Python recipes and a manual n8n funding workflow. No account or payment is needed for the public research endpoints.
+
+Start with a funding brief, crypto exit-cost context or bank evidence review. Responses retain source dates and data-quality limits. **[Client setup and verified versions](https://liquilens.in/agents/clients.md)** · **[Download the versioned kit](https://github.com/beepboop2025/liquilens-site/releases/tag/agent-kit-v1.0.0)** · **[Browse API docs](https://api.liquilens.in/docs)**
+
 ## ▸ Selected work
 
 | | project | what it is |
 |---|---|---|
 | ★ | **[Palimpsest](https://palimpsest.info)** · [source ↗](https://github.com/beepboop2025/palimpsest) · [sponsor ↗](https://github.com/sponsors/beepboop2025) | Open-source public evidence workbench for sealed censorship measurements and reproducible AI evaluations — downloadable datasets and verification tools for researchers, journalists and the public |
-| ★ | **[LiquiLens](https://liquilens.in)** · [MCP ↗](https://github.com/beepboop2025/liquilens-mcp) | Public-data early-warning research for banks and lenders — evidence-bounded Failure Radar, historical replays, a keyless API &amp; an 18-tool read-only MCP server |
+| ★ | **[LiquiLens](https://liquilens.in)** · [MCP ↗](https://github.com/beepboop2025/liquilens-mcp) | Public-data early-warning research for banks and lenders — evidence-bounded Failure Radar, historical replays, a keyless API &amp; a read-only MCP server |
 | ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs — Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
 | ★ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center — India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
 | ◆ | **[DragonScope](https://github.com/beepboop2025/DragonScope)** · [live ↗](https://dragonscope.vercel.app) | Bloomberg-style terminal — 45+ panels, ML signals, in-browser SQL, real-time WebSocket feeds, correlation engine |
