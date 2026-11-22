@@ -6,56 +6,74 @@
 ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://beepboop2025.github.io/">
+  <a href="https://liquilens.in/">
     <img src="./hero.svg" width="100%" alt="moo: builds systems." />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://beepboop2025.github.io/">
-    <img src="https://img.shields.io/badge/▸%20view%20the%20portfolio-beepboop2025.github.io-A1ECFF?style=for-the-badge&labelColor=0a0a0a" alt="View the portfolio" />
+  <a href="https://liquilens.in/">
+    <img src="https://img.shields.io/badge/LiquiLens-liquilens.in-A1ECFF?style=for-the-badge&labelColor=0a0a0a" alt="LiquiLens" />
   </a>
   &nbsp;
-  <a href="https://github.com/beepboop2025?tab=repositories">
-    <img src="https://img.shields.io/badge/all%20repositories-→-FFAB98?style=for-the-badge&labelColor=0a0a0a" alt="All repositories" />
+  <a href="https://seiche.info/">
+    <img src="https://img.shields.io/badge/Seiche-seiche.info-FFAB98?style=for-the-badge&labelColor=0a0a0a" alt="Seiche" />
+  </a>
+  &nbsp;
+  <a href="https://liquilens-undertow.com/">
+    <img src="https://img.shields.io/badge/Undertow-liquilens--undertow.com-A1ECFF?style=for-the-badge&labelColor=0a0a0a" alt="Undertow" />
+  </a>
+  &nbsp;
+  <a href="https://www.palimpsest.info/">
+    <img src="https://img.shields.io/badge/Palimpsest-palimpsest.info-FFAB98?style=for-the-badge&labelColor=0a0a0a" alt="Palimpsest" />
   </a>
 </p>
 
-<p align="center"><sub>OSINT &amp; INTEL&nbsp;&nbsp;·&nbsp;&nbsp;AI / MCP&nbsp;&nbsp;·&nbsp;&nbsp;FINTECH&nbsp;&nbsp;·&nbsp;&nbsp;FULL-STACK</sub></p>
+<p align="center"><sub>FINANCIAL EVIDENCE&nbsp;&nbsp;·&nbsp;&nbsp;ONTOLOGY &amp; IDENTITY&nbsp;&nbsp;·&nbsp;&nbsp;AI / MCP&nbsp;&nbsp;·&nbsp;&nbsp;OSINT &amp; PROVENANCE</sub></p>
 
 ---
 
-I build **full systems, not demos**: from the collectors and message queues at the bottom to the dashboards and agents at the top. My work clusters around three obsessions: making opaque real-world data **legible**, giving AI agents **tools they can trust**, and **financial infrastructure** that holds up. Python &amp; TypeScript · FastAPI &amp; Next.js · Kafka &amp; Postgres.
+Founder of **LIQUILENS PRIVATE LIMITED** (Jaipur, India; DPIIT Startup India `DIPP290644`, iStart Rajasthan `3B9DA043`, RBIH Fintech Repository `FR017C3083026LS`). I build full-stack financial evidence, entity-resolution, and public-data verification systems from the collectors and bitemporal ontology at the bottom to live web tools, REST APIs, Python/CLI packages, and hosted MCP servers at the top.
 
-## ▸ Free financial research for your agent
+## ▸ Use the live suite in 30 seconds (no API key needed)
 
-**[Get the free agent kit →](https://liquilens.in/agents/)**: keyless MCP connections for Hermes, OpenClaw, Claude, Codex, Cursor and VS Code, with Python recipes and a manual n8n funding workflow. No account or payment is needed for the public research endpoints.
+```bash
+# Python SDKs and research router
+pip install seiche liquilens financial-evidence
 
-Start with a funding brief, crypto exit-cost context or bank evidence review. Responses retain source dates and data-quality limits. **[Client setup and verified versions](https://liquilens.in/agents/clients.md)** · **[Browse API docs](https://api.liquilens.in/docs)**
+# Zero-key terminal dashboard for India and US bank risk
+npx liquilens
 
-## ▸ Selected work
+# Homebrew CLI and MCP tap
+brew tap beepboop2025/tap
+```
+
+- **Interactive web tools**: [Indian Bank Filing Screener](https://liquilens.in/banking/compare/) · [12,301-Entity Financial Ontology](https://liquilens.in/ontology/) · [Bond-Market Ontology Workbench](https://liquilens.in/world-economy/bond-markets/) · [Free Agent Starter Kit](https://liquilens.in/agents/)
+- **Hosted keyless MCP endpoints**: `https://agents.seiche.info/products/liquilens/mcp` · `https://agents.seiche.info/products/seiche/mcp` · `https://agents.seiche.info/products/undertow/mcp`
+- **Public datasets & AI directories**: [Hugging Face (`liquilens`)](https://huggingface.co/liquilens) · [Official MCP Registry](https://registry.modelcontextprotocol.io/) · [Dify Marketplace](https://github.com/beepboop2025/financial-evidence-skills/blob/main/MARKETPLACE_STATUS.md) · [OpenAPI Docs](https://api.liquilens.in/docs)
+
+## ▸ Core product family
 
 | | project | what it is |
 |---|---|---|
-| ★ | **[LiquiLens](https://liquilens.in)** · [MCP ↗](https://github.com/beepboop2025/liquilens-mcp) | Source-cited data on India's small and midsize lenders, with a free REST API, MCP server and Python package |
-| ★ | **[Seiche](https://seiche.info)** · [source ↗](https://github.com/beepboop2025/seiche) | Free, open research on dollar funding and money markets |
-| ★ | **[LiquiLens Undertow](https://liquilens-undertow.com)** · [MCP ↗](https://github.com/beepboop2025/undertow-mcp) | Market liquidity and exit-cost research |
-| ★ | **[Palimpsest](https://palimpsest.info)** · [source ↗](https://github.com/beepboop2025/palimpsest) · [sponsor ↗](https://github.com/sponsors/beepboop2025) | Open-source public evidence workbench for sealed censorship measurements and reproducible AI evaluations, with downloadable datasets and verification tools for researchers, journalists and the public |
-| ★ | **[operatoros](https://github.com/beepboop2025/operatoros)** | Cross-border tax platform for NRIs: Residency, DTAA, §195, FTC, Customs &amp; a live World Tax Radar. FastAPI + React, ~160 tests, CA-backed engines that refuse to guess |
-| ★ | **[provenra](https://github.com/beepboop2025/provenra)** | Pharma supply-chain command center: India-first serialization, cold-chain, NSQ watch &amp; recall tracking, with an award-grade WebGL landing (Next.js 16) |
-| ◆ | **[DragonScope](https://github.com/beepboop2025/DragonScope)** · [live ↗](https://dragonscope.vercel.app) | Bloomberg-style terminal: 45+ panels, ML signals, in-browser SQL, real-time WebSocket feeds, correlation engine |
-| ◆ | **[groundcheck](https://github.com/beepboop2025/groundcheck)** · [live ↗](https://groundcheck.seiche.info) | The grounding check agents run before they answer: an MCP server that verifies a claim against live sources and returns a verdict + citations |
-| ◆ | **[pdf-suite-mcp](https://github.com/beepboop2025/pdf-suite-mcp)** | MCP server with 37 tools for reading, creating, merging, watermarking, redacting &amp; filling PDFs |
-| ◆ | **[snapmock](https://github.com/beepboop2025/snapmock)** · [live ↗](https://snapmock-orpin.vercel.app) | Turn screenshots into beautiful mockups in seconds: free, private, no sign-up |
-| ◆ | **[drug-price-observatory](https://github.com/beepboop2025/drug-price-observatory)** | Public-good explorer making UNODC/INCB drug-trade data legible: street prices, precursor flows, corridors |
+| ★ | **[LiquiLens](https://liquilens.in)** · [CLI ↗](https://github.com/beepboop2025/liquilens-cli) · [Ontology ↗](https://liquilens.in/ontology/) | Source-cited Indian and US bank evidence, 12,301-object bitemporal financial ontology (25 key spaces: CIN, LEI, DICGC, RBI, FDIC), interactive bank screener, REST API, MCP and Python SDK |
+| ★ | **[Seiche](https://seiche.info)** · [source ↗](https://github.com/beepboop2025/seiche) · [PyPI ↗](https://pypi.org/project/seiche/) | Free AGPL dollar-funding, repo, SOFR-IORB, FX reference and capital-transmission observatory with Python SDK, Colab notebooks and MCP |
+| ★ | **[LiquiLens Undertow](https://liquilens-undertow.com)** · [MCP ↗](https://github.com/beepboop2025/undertow-mcp) | Market liquidity, credit spreads (HY/IG OAS) and stated-size exit research with sealed records and x402/MCP endpoints |
+| ★ | **[Palimpsest](https://www.palimpsest.info)** · [source ↗](https://github.com/beepboop2025/palimpsest) · [sponsor ↗](https://github.com/sponsors/beepboop2025) | Open-source, revision-safe China economy observatory and verifiable AI/censorship measurement registry with downloadable datasets, MCP and offline verification |
+| ★ | **[Financial Evidence Skills](https://github.com/beepboop2025/financial-evidence-skills)** · [PyPI ↗](https://pypi.org/project/financial-evidence/) | Free MCP servers, Agent Skills, Claude/Cursor/Codex/Gemini plugins, Colab notebooks and OpenBB/LangChain/Dify integrations across the four products |
+| ★ | **[My Quant Doesn't Speak English](https://myquantdoesntspeakenglish.com)** · [source ↗](https://github.com/beepboop2025/myquantdoesntspeakenglish) | Evidence-bound market investigations and daily financial briefings backed by Seiche, LiquiLens and Undertow |
+| ◆ | **[groundcheck](https://github.com/beepboop2025/groundcheck)** · [live ↗](https://groundcheck.seiche.info) | Grounding check agents run before they answer: MCP server that verifies claims against live sources with FIGI resolution and signed receipts |
+| ◆ | **[liquilens-evidence-carrier](https://github.com/beepboop2025/liquilens-evidence-carrier)** | Read-only Trade Safety receipts, schema-validated envelopes (SchemaStore, conda-forge, DevContainers) and paper-only Alpaca adapter |
+| ◆ | **[narcoscope](https://github.com/beepboop2025/narcoscope)** | Public drug-market data explorer making UNODC/INCB prices, precursor flows, corridors and seizures legible |
+| ◆ | **[market-brief](https://github.com/beepboop2025/market-brief)** | Free source-linked funding and liquidity briefs for AI copilots |
 
 ## ▸ The work clusters
 
-**🛰 Intelligence &amp; OSINT**: [palimpsest](https://github.com/beepboop2025/palimpsest) · [economic-intelligence-agent](https://github.com/beepboop2025/economic-intelligence-agent) · [econscraper](https://github.com/beepboop2025/econscraper) · [drug-price-observatory](https://github.com/beepboop2025/drug-price-observatory)
+**Financial evidence & ontology**: [seiche](https://github.com/beepboop2025/seiche) · [liquilens-cli](https://github.com/beepboop2025/liquilens-cli) · [undertow-mcp](https://github.com/beepboop2025/undertow-mcp) · [financial-evidence-skills](https://github.com/beepboop2025/financial-evidence-skills) · [liquilens-evidence-carrier](https://github.com/beepboop2025/liquilens-evidence-carrier) · [homebrew-tap](https://github.com/beepboop2025/homebrew-tap)
 
-**🤖 AI tooling &amp; MCP**: [groundcheck](https://github.com/beepboop2025/groundcheck) · [pdf-suite-mcp](https://github.com/beepboop2025/pdf-suite-mcp) · [ai-analytics](https://github.com/beepboop2025/ai-analytics) · [medprep-ai](https://github.com/beepboop2025/medprep-ai)
+**Intelligence, OSINT & public data**: [palimpsest](https://github.com/beepboop2025/palimpsest) · [narcoscope](https://github.com/beepboop2025/narcoscope) · [myquantdoesntspeakenglish](https://github.com/beepboop2025/myquantdoesntspeakenglish)
 
-**📈 Fintech &amp; data**: [LiquiLens](https://liquilens.in) · [Seiche](https://seiche.info) · [LiquiLens Undertow](https://liquilens-undertow.com) · [operatoros](https://github.com/beepboop2025/operatoros) · [DragonScope](https://github.com/beepboop2025/DragonScope) · [provenra](https://github.com/beepboop2025/provenra) · [ReadyState](https://github.com/beepboop2025/ReadyState) · [chainguard](https://github.com/beepboop2025/chainguard) · [umbra-xmr-bridge](https://github.com/beepboop2025/umbra-xmr-bridge)
+**AI tooling & verification**: [groundcheck](https://github.com/beepboop2025/groundcheck) · [market-brief](https://github.com/beepboop2025/market-brief) · [awesome-finance-agents](https://github.com/beepboop2025/awesome-finance-agents)
 
 ## ▸ Signals
 
@@ -66,26 +84,22 @@ Start with a funding brief, crypto exit-cost context or bank evidence review. Re
 
 ## ▸ Doctrine
 
-> **Treat the censor as a sensor.**&nbsp; What a regime deletes (how fast, how selectively) reveals what it fears.
+> **Two clocks, zero lookahead.** Every fact separates event time from knowledge time so backtests and audits prove what was actually known as of a date.
 >
-> **Estimate the hidden state.**&nbsp; Every feed is one biased measurement; the truth lives in the triangulation.
+> **Treat the censor as a sensor.** What a regime deletes (how fast, how selectively) reveals what it fears.
 >
-> **Honest data states.**&nbsp; Every view is badged `● LIVE` / `● SNAPSHOT` / `● SAMPLE`: the system flags stale data rather than fabricating signal to fill a gap.
+> **Honest data states.** Missing, stale, or restricted evidence stays explicit. Absence is never coerced to zero or calm.
 
-## ▸ Let's connect
+## ▸ Connect
 
 <p align="center">
   <a href="mailto:mrinal@liquilens.in">
-    <img src="https://img.shields.io/badge/✉%20email%20me-mrinal%40liquilens.in-A1ECFF?style=for-the-badge&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/✉%20email-mrinal%40liquilens.in-A1ECFF?style=for-the-badge&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://beepboop2025.github.io/">
-    <img src="https://img.shields.io/badge/▸%20view%20the%20portfolio-FFAB98?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio" />
+  <a href="https://liquilens.in/investors/">
+    <img src="https://img.shields.io/badge/Company%20%26%20Investors-liquilens.in-FFAB98?style=for-the-badge&labelColor=0a0a0a" alt="Investors" />
   </a>
 </p>
 
-<p align="center"><sub>Open to interesting problems: intelligence, AI tooling &amp; fintech infrastructure.<br/>Public projects link their code and evidence; private systems are labeled as such. Curious what the full systems do? <strong>Reach out.</strong></sub></p>
-
----
-
-<p align="center"><sub>□&nbsp;&nbsp;built in the Textura key&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://beepboop2025.github.io/">beepboop2025.github.io</a></sub></p>
+<p align="center"><sub>Research and market data. No credit rating, regulatory approval, order execution or investment advice.</sub></p>
